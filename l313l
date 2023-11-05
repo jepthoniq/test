@@ -87,7 +87,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m HuRe
+    python3 -m JoKeRUB
 }
 
 _set_bot
